@@ -6,9 +6,9 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 
 ## 1. Miembros del Equipo y Roles
 
-| Nombre                  | Rol            | Usuario de GitHub | Bitácoras asignadas |
-| :---------------------- | :------------  | :---------------- | :------------------ |
-| [Nombre del Aprendiz 1] | Líder          | `@usuario1`       | Semana 1 y 2        |
+| Nombre                          | Rol            | Usuario de GitHub | Bitácoras asignadas |
+| :------------------------------ | :------------  | :---------------- | :------------------ |
+| [Giovany Arley Pinzon Cardenas] | Líder          | `@GiovanyPinzon`  | Semana 1 y 2        |
 | [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       | Semana 3 y 4        |
 | [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       | Semana 5 y 6        |
 
