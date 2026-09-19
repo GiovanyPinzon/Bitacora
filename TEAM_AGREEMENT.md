@@ -116,3 +116,16 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la aceptación de este acuerdo por parte de todos los integrantes del equipo.
 
+Firmas de los integrantes:
+
+____________________________
+[Giovany Arley Pinzon Cardenas]
+Líder
+
+____________________________
+[Nombre del Desarrollador 1]
+Desarrollador
+
+____________________________
+[Nombre del Desarrollador 2]
+Desarrollador
