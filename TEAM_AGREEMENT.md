@@ -9,7 +9,7 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 | Nombre                  | Rol            | Usuario de GitHub | Bitácoras asignadas |
 | :---------------------- | :------------  | :---------------- | :------------------ |
 | [Nombre del Aprendiz 1] | Líder          | `@usuario1`       | Semana 1 y 2        |
-| [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       | Semana 3 y 4        |
+| [Jose david suarez] | Desarrollador1 | `@davidsuqui`       | Semana 3 y 4        |
 | [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       | Semana 5 y 6        |
 
 El líder será el encargado de coordinar el trabajo del equipo, revisar los cambios realizados por los desarrolladores y realizar la integración final de las ramas hacia `main`.
@@ -116,3 +116,16 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la aceptación de este acuerdo por parte de todos los integrantes del equipo.
 
+Firmas de los integrantes:
+
+____________________________
+[Nombre Del Lider]
+Líder
+
+____________________________
+[Jose David suarez Quintero]
+Desarrollador
+ 
+____________________________
+[Nombre del Desarrollador 2]
+Desarrollador
