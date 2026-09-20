@@ -6,3 +6,5 @@
 | 1  | 21/08/2026 1:20 p.m   | Giovany Arley Pinzon Cardenas | Juego en Kahoot sobre la guia de la terminal                   | Recordar cosas importantes que estan en la guia                | Estudiar la guia para que no me bloquee     |
 +----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
 | 2  | 21/08/2026 1:45 p.m   | Giovany Arley Pinzon Cardenas | abri git bash con la tecla windows y escribi gitbash           | Sin impedimentos                                               | no aplica                                   |
++----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
+| 3  | 21/08/2026 1:52 p.m   | Giovany Arley Pinzon Cardenas | Ver donde estaba con pwd y crear la carpeta techsolutions-web  | Sin impedimentos
