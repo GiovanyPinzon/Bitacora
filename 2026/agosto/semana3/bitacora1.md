@@ -10,3 +10,5 @@
 | 3  | 21/08/2026 1:52 p.m   | Giovany Arley Pinzon Cardenas | Ver donde estaba con pwd y crear la carpeta techsolutions-web  | Sin impedimentos
 +----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
 | 4  | 21/08/2026 1:55 p.m   | Giovany Arley Pinzon Cardenas | crear 3 sub carpetas con mkdir y 3 documentos con touch        | Sin impedimentos                                                | no aplica                                   |
++----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
+| 5  | 21/08/2026 2:10 p.m   | Giovany Arley Pinzon Cardenas | renombrar el documento estilo.css a main.css con mv            | Sin impedimentos                                                | no aplica                                   |
