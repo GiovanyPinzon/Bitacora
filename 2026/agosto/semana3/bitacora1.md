@@ -8,3 +8,5 @@
 | 2  | 21/08/2026 1:45 p.m   | Giovany Arley Pinzon Cardenas | abri git bash con la tecla windows y escribi gitbash           | Sin impedimentos                                               | no aplica                                   |
 +----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
 | 3  | 21/08/2026 1:52 p.m   | Giovany Arley Pinzon Cardenas | Ver donde estaba con pwd y crear la carpeta techsolutions-web  | Sin impedimentos
++----+-----------------------+-------------------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+---------------------------------------------+
+| 4  | 21/08/2026 1:55 p.m   | Giovany Arley Pinzon Cardenas | crear 3 sub carpetas con mkdir y 3 documentos con touch        | Sin impedimentos                                                | no aplica                                   |
