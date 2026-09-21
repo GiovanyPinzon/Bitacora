@@ -1,0 +1,5 @@
+# TABLA DE TRAZABILIDAD
++----+-----------------------+-------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------+
+| ID | Timestamp             | Autoría (Responsable)         | Objeto Técnico (Actividad y Alcance)                          | Impedimentos / Blockers                                               | Plan de Acción (Mitigación / Próxima Tarea)  |
++----+-----------------------+-------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------+
+| 1  | 07/09/2026 3:55 p.m   | Giovany Arley Pinzon Cardenas | Creación de equipos y juego en kahoot                         | recordar los elementos básicos recibidos por la guía de aprendizaje   | estudiar la guía de aprendizaje entregada-   |
