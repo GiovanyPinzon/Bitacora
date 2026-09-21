@@ -118,14 +118,14 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 
 Firmas de los integrantes:
 
-__
+____________________________
 [Nombre Del Lider]
 Líder
 
-__
-[Nombre del Desarrollador 1]
+____________________________
+[Jose David suarez Quintero]
 Desarrollador
+ 
+____________________________
+[carlos andres bello]
 
-__
-[carlos andres bello rodriguez]
-Desarrollador
