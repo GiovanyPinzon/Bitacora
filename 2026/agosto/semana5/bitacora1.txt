@@ -7,3 +7,5 @@
 | 2  | 28/08/2026 2:32 p.m   | Giovany Arley Pinzon Cardenas | Agregar contenido en notas.txt y registrar cambios con git add y git commit       | Sin impedimentos        | no aplica                                    |
 +----+-----------------------+-------------------------------+-----------------------------------------------------------------------------------+-------------------------+----------------------------------------------+
 | 3  | 28/08/2026 2:50 p.m   | Giovany Arley Pinzon Cardenas | Crear rama develop, cambiar de entorno de trabajo y editar notas.txt              | Sin impedimentos        | no aplica                                    |
++----+-----------------------+-------------------------------+-----------------------------------------------------------------------------------+-------------------------+----------------------------------------------+
+| 4  | 28/08/2026 3:10 p.m   | Giovany Arley Pinzon Cardenas | Consultar historial con git log/checkout y guardar cambios adicionales            | Sin impedimentos        | no aplica                                    |
