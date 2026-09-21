@@ -9,3 +9,5 @@
 | 3  | 28/08/2026 2:50 p.m   | Giovany Arley Pinzon Cardenas | Crear rama develop, cambiar de entorno de trabajo y editar notas.txt              | Sin impedimentos        | no aplica                                    |
 +----+-----------------------+-------------------------------+-----------------------------------------------------------------------------------+-------------------------+----------------------------------------------+
 | 4  | 28/08/2026 3:10 p.m   | Giovany Arley Pinzon Cardenas | Consultar historial con git log/checkout y guardar cambios adicionales            | Sin impedimentos        | no aplica                                    |
++----+-----------------------+-------------------------------+-----------------------------------------------------------------------------------+-------------------------+----------------------------------------------+
+| 5  | 28/08/2026 3:20 p.m   | Giovany Arley Pinzon Cardenas | Fusionar rama develop en main mediante git merge y eliminar rama auxiliar          | Sin impedimentos        | no aplica                                    |
