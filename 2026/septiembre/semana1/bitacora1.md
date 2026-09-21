@@ -5,3 +5,5 @@
 | 1  | 11/09/2026 2:06 p.m   | Giovany Arley Pinzon Cardenas | Agregar foto de perfil al usuario de GitHub                   | sin impedimentos        | no aplica                                    |
 +----+-----------------------+-------------------------------+---------------------------------------------------------------+-------------------------+----------------------------------------------+
 | 2  | 11/09/2026 2:29 p.m   | Giovany Arley Pinzon Cardenas | Agregar biografía descriptiva al perfil de GitHub             | sin impedimentos        | no aplica                                    |
++----+-----------------------+-------------------------------+---------------------------------------------------------------+-------------------------+----------------------------------------------+
+| 3  | 11/09/2026 3:39 p.m   | Giovany Arley Pinzon Cardenas | Crear repositorio en GitHub y clonarlo localmente             | sin impedimentos        | no aplica                                    |
